@@ -1,0 +1,11 @@
+name: WSTCAbstracts
+title: WSTCAbstracts
+account: blackbawks
+server: shinyapps.io
+appId: 308045
+bundleId: 1297657
+url: https://blackbawks.shinyapps.io/WSTCAbstracts/
+when: 1522663755.39997
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: AB_Schedule_FINAL.xlsx|Keywords.R|Schedule_FINAL_FINAL.xlsx|Schedule_FINAL_SW.xlsx|Schedule_V2.xlsx|WSTC3_Abstract_booklet.pdf|WSTC4 Schedule Working Doc - Sheet1.csv|WSTC4 Schedule.xlsx

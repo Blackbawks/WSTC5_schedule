@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "/* CSS Stylings for the WSTC4 application */\n\n\nh1 {\n  font-family: 'Segoe UI';\n  font-weight: 200;\n  font-size: 18pt;\t\n}\nh2 {\n  font-family: 'Segoe UI';\n  font-weight: 200;\n  font-size: 16pt;\t\n}\n\nh3 {\n  font-family: 'Segoe UI';\n  font-weight: 200;\n  font-size: 14pt;\t\n}\n\nh4 {\n  font-family: 'Segoe UI';\n  font-weight: 200;\n  font-size: 13pt;\t\n}\n\n\np {\n  font-family: 'Segoe UI';\n  font-weight: 200;\n  font-size: 12pt;\t\n}\n\nbody {\n  background-color:#FFFFFF;\n}\n\n#register {\n  background-color:transparent;\n  \n}\n\n#info {\n  background-color:transparent;\n  \n}\n\n.homrow1 {\n        background: url(10-DSC_0188.png) no-repeat center center fixed;\n        -webkit-background-size: cover;\n        -moz-background-size: cover;\n        -o-background-size: cover;\n        background-size: cover;\n        border-top: 5px solid black;\n        \n        border-bottom: 5px solid black;\n}\n\n.homrow3 {\n  padding-bottom:20px;\n  padding-top:20px;\n}\n\n.homrow4 {\n  border-top: 5px solid black;\n}\n\n\n.footer {\n  border-top: 5px solid black;\n  background-color:white;\n}\n\n\n#tabs {\n  font-size: 18pt;\n  background-color:white;\n  padding:0 -20px 0 20px;\n}\n\n\n#tabs a:link {\n  color:black;\n  font-family: 'Segoe UI';\n  font-weight: 100;\n}\n\n\n\n#demo {\n  color:black;\n  font-size:18pt;\n}\n\n.sponsors {\n  width:100%;\n  display:inline-block;\n}\n.logo {\n  float:left;\n  display:inline-block;\n  padding:10px;\n}\n\n\n",
+    "created" : 1522030445013.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2456757977",
+    "id" : "FDCA9103",
+    "lastKnownWriteTime" : 1522030464,
+    "last_content_update" : 1522030464912,
+    "path" : "D:/Dropbox/BlackBawks/PROJECTS/WSTC4/WSTCAbstracts/style.css",
+    "project_path" : "style.css",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

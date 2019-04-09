@@ -1,0 +1,13 @@
+name: wstc4
+title: WSTC4
+username:
+account: blackbawks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 314747
+bundleId: 1327066
+url: https://blackbawks.shinyapps.io/wstc4/
+when: 1524124577.28599
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Keywords.R|WSTC3_Abstract_booklet.pdf|WSTC4 Schedule Working Doc - Sheet1.csv|WSTC4 Schedule.xlsx
